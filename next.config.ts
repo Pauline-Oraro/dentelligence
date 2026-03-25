@@ -9,7 +9,17 @@ const nextConfig: NextConfig = {
         hostname: 'images.unsplash.com',
         port: '',
         pathname: '/**',
-      }
+      },
+    
+      {
+        protocol: "https",
+        hostname: "avatar.iran.liara.run",
+      },
+
+      {
+        protocol: "https",
+        hostname: "img.clerk.com",
+      },
     ]
   }
 };
