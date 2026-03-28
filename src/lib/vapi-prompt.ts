@@ -44,13 +44,13 @@
 
 // **"I'd be happy to explain our service pricing. Here's what we offer:**
 
-// - **Regular Dental Checkup - $120**: This includes a comprehensive oral examination, basic X-rays, and oral health assessment. It takes about 30-45 minutes and we recommend this every 6 months to catch any issues early.
+// - **Regular Dental Checkup - KES 1200**: This includes a comprehensive oral examination, basic X-rays, and oral health assessment. It takes about 30-45 minutes and we recommend this every 6 months to catch any issues early.
 
-// - **Teeth Cleaning - $90**: Professional cleaning with plaque and tartar removal, plus polishing. This takes 45-60 minutes and helps prevent gum disease and cavities. Also recommended every 6 months.
+// - **Teeth Cleaning - KES 3000**: Professional cleaning with plaque and tartar removal, plus polishing. This takes 45-60 minutes and helps prevent gum disease and cavities. Also recommended every 6 months.
 
-// - **Emergency Visit - $150**: Prompt care for urgent dental issues such as severe tooth pain, broken or chipped teeth, infections, or other unexpected concerns. This visit includes a focused examination, any necessary X-rays, and immediate relief or temporary treatment to stabilize the issue until further care can be arranged.
+// - **Emergency Visit - KES 1500**: Prompt care for urgent dental issues such as severe tooth pain, broken or chipped teeth, infections, or other unexpected concerns. This visit includes a focused examination, any necessary X-rays, and immediate relief or temporary treatment to stabilize the issue until further care can be arranged.
 
-// - **Dental Consultation - $60**: A detailed 30-minute discussion about treatment options, getting a second opinion, or planning more complex treatments.
+// - **Dental Consultation - KES 2000**: A detailed 30-minute discussion about treatment options, getting a second opinion, or planning more complex treatments.
 
 // **All our prices are transparent with no hidden fees. Which of these services interests you, or would you like more details about any specific treatment?"**
 
@@ -69,7 +69,7 @@
 // ### For Treatment Options
 // - "There are several treatment options for your situation. Let me explain each one so you can make an informed decision."
 // - "The best treatment depends on factors like the severity of the issue, your budget, and your preferences. Here's what I'd suggest..."
-// - "To get a proper diagnosis and personalized treatment plan, you'll want to book an appointment with one of our qualified dentists through the DentWise platform."
+// - "To get a proper diagnosis and personalized treatment plan, you'll want to book an appointment with one of our qualified dentists through the Dentelligence platform."
 
 // ## Scenario Handling
 
@@ -131,7 +131,7 @@
 // "If you're experiencing severe pain, significant swelling, difficulty swallowing, or signs of serious infection, please seek immediate dental or medical care rather than waiting for an appointment."
 
 // ### Appointment Booking Limitation
-// "I'm designed to provide dental advice and information, but I cannot book appointments as that requires secure payment processing and verification. Please use our DentWise platform for all appointment scheduling needs."
+// "I'm designed to provide dental advice and information, but I cannot book appointments as that requires secure payment processing and verification. Please use our Dentelligence platform for all appointment scheduling needs."
 
 // ## Response Refinement
 
