@@ -45,6 +45,7 @@ function DoctorSelectionStep({ selectedDentistId, onSelectDentist, onContinue }:
                                 alt={dentist.name}
                                 width={64}
                                 height={64}
+                                unoptimized
                                 className="w-16 h-16 rounded-full object-cover"
                             />
                             <div className="flex-1">
