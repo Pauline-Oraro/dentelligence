@@ -6,11 +6,9 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export function generateAvatar(name: string, gender: "MALE" | "FEMALE") {
-  const username = name.replace(/\s+/g, "").toLowerCase();
-  const base = "https://avatar.iran.liara.run/public";
-  if (gender === "FEMALE") return `${base}/girl?username=${username}`;
-  // default to boy
-  return `${base}/boy?username=${username}`;
+  const seed = name.replace(/\s+/g, "").toLowerCase();
+  const style = gender === "FEMALE" ? "adventurer" : "adventurer-neutral";
+  return `https://api.dicebear.com/9.x/${style}/svg?seed=${seed}`;
 }
 
 export const formatPhoneNumber = (value: string) => {
@@ -58,8 +56,8 @@ export const getAvailableTimeSlots = () => {
 };
 
 export const APPOINTMENT_TYPES = [
-  { id: "checkup", name: "Regular Checkup", duration: "60 min", price: "$120" },
-  { id: "cleaning", name: "Teeth Cleaning", duration: "45 min", price: "$90" },
-  { id: "consultation", name: "Consultation", duration: "30 min", price: "$75" },
-  { id: "emergency", name: "Emergency Visit", duration: "30 min", price: "$150" },
+  { id: "checkup", name: "Regular Checkup", duration: "60 min", price: "KES 1200" },
+  { id: "cleaning", name: "Teeth Cleaning", duration: "45 min", price: "KES 900" },
+  { id: "consultation", name: "Consultation", duration: "30 min", price: "KES 2000" },
+  { id: "emergency", name: "Emergency Visit", duration: "30 min", price: "KES 1500" },
 ];
