@@ -23,7 +23,6 @@ Dentelligence is a full-stack AI voice dental assistant that lets users ask dent
   - [Database Setup](#database-setup)
   - [Running Locally](#running-locally)
 - [Key Integrations](#key-integrations)
-- [Pricing Tiers](#pricing-tiers)
 - [Scripts](#scripts)
 - [Deployment](#deployment)
 - [License](#license)
@@ -204,16 +203,6 @@ Dentelligence uses **Vapi AI** (`@vapi-ai/web`) to power real-time AI voice call
 
 ---
 
-## Pricing Tiers
-
-| Plan | Price | Key Features |
-|---|---|---|
-| **Free** | $0/month | Unlimited appointment booking, find local dentists, basic chat support, appointment reminders |
-| **AI Basic** | $9/month | Everything in Free + 10 AI voice calls/month, symptom assessment, call history & recordings, priority support |
-| **AI Pro** | $19/month | Everything in AI Basic + unlimited AI voice calls, advanced dental analysis, personalized care plans, 24/7 priority AI support, detailed health reports |
-
----
-
 ## Scripts
 
 | Command | Description |
@@ -246,5 +235,5 @@ This project is private. All rights reserved © 2026 Dentelligence.
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Pauline-Oraro">Pauline Oraro</a> and contributors.
+  Built with ❤️ by <a href="https://github.com/Pauline-Oraro">Pauline Oraro</a>
 </p>
